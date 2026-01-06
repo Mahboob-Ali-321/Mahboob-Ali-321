@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Mahboob Ali 👋
 
-<!--
-**Mahboob-Ali-321/Mahboob-Ali-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Diploma Student  
+🐍 Python Developer (Intermediate)  
+🌱 Open Source Contributor  
+🚀 GSoC Aspirant 
 
-Here are some ideas to get you started:
+📍 Jharkhand, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- Python
+- Git & GitHub
+- REST APIs
+- Linux Basics
+
+### 🎯 Goals (2026)
+- Active Open Source Contributions
+- Crack Google Summer of Code (GSoC)
+
+📫 Reach me via GitHub
